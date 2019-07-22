@@ -1,0 +1,7 @@
+#word span {
+    height: 50px;
+    width: 40px;
+    border-bottom: solid 2px;
+    display: inline-block;
+    margin-right: 20px;
+ }
